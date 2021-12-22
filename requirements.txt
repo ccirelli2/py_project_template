@@ -1,1 +1,11 @@
-
+# This file may be used to create an environment using:                         
+# $ conda create --name <env> --file <this file>                                
+# platform: linux-64                                                            
+black=21.12b0=pypi_0                                                            
+docker=5.0.3=pypi_0                                                             
+graphviz=2.40.1=h21bd128_2                                                      
+mypy-extensions=0.4.3=pypi_0                                                    
+pylint=2.12.2=pypi_0                                                            
+python-decouple=3.5=pypi_0                                                      
+pyyaml=6.0=pypi_0                                                               
+flake8=2.6.2      
