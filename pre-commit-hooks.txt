@@ -1,0 +1,11 @@
+'''
+Add this code to pre-commit in the .git/hook file of your repository
+
+Replace [Repositoryname] with the name of your repository.
+'''
+
+# Enable Black
+black . -v
+
+# Enable Pylint
+python lint.py -p ../[RepositoryName]/
