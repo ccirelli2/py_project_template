@@ -54,7 +54,7 @@ set undodir=.undo/,~/.undo/,/tmp//
 
 
 " Remap Shortcuts "
-inoremap <C-b> <C-p>
+" inoremap <C-b> <C-p>
 
 " Syntastic Linting "
 execute pathogen#infect()
