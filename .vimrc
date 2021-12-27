@@ -2,7 +2,8 @@
 " Auto-Install Plugins                                                          
 "=============================================================================  
 call plug#begin()                                                               
-                                                                                
+
+Plug 'aliou/bats.vim'                                                                                
 Plug 'https://github.com/python-mode/python-mode'                               
 Plug 'https://github.com/heavenshell/vim-pydocstring'                           
 Plug 'heavenshell/vim-pydocstring', { 'do': 'make install', 'for': 'python' }   
